@@ -17,7 +17,7 @@ Example showing personal accounts when an account has been exclude from monitor:
 
 ## Installing plugin
 
-Download the plugin of your choice into your BitBar plugins directory.  
+Download the plugin into your BitBar plugins directory.  
 
 Install `mechanize` gem, open a terminal and execute the following command:  
 
