@@ -1,0 +1,5 @@
+credit_mutuel:
+  username: XXXXXXXXXXXX
+  password: XXXXXXXXXXXX
+  exclude_accounts:
+    - 
