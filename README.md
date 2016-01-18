@@ -3,15 +3,15 @@
 Credit Mutuel Monitor (by [Yann Very - @yannvery](https://twitter.com/yannvery)) Monitor your credit mutuel bank accounts.  
 This script has been designed as a [BitBar](https://getbitbar.com) plugin
 
-Example showing personal accounts when all accounts have a positive balance.
+Example showing personal accounts when all accounts have a positive balance:
 
 ![Example showing positive accounts](https://raw.github.com/yannvery/credit_mutuel_monitor/master/screenshots/example-all-positive.png)
 
-Example showing personal accounts when an account has a negative balance.
+Example showing personal accounts when an account has a negative balance:
 
 ![Example showing one negative account](https://raw.github.com/yannvery/credit_mutuel_monitor/master/screenshots/example-one-negative.png)
 
-Example showing personal accounts when an account has been exclude from monitor.
+Example showing personal accounts when an account has been exclude from monitor:
 
 ![Example showing exclude account](https://raw.github.com/yannvery/credit_mutuel_monitor/master/screenshots/example-exclude-account.png)
 
