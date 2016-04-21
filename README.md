@@ -67,8 +67,8 @@ credit_mutuel:
   username: XXXXXXXXXXX
   password: XXXXXXXXXXX
 exclude_accounts:
-  - PRET MODULIMMO
-  - ETALIS
+  - PRET MODULIMMO - 1234567890
+  - COMPTE COURANT - JOHN DOE
 ```
 
 ## Contributing
