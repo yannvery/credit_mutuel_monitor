@@ -104,7 +104,10 @@ class CreditMutuelMonitor
   end
 
   def account_title(line)
-    line.search('td').search('.ei_sdsf_title').text
+    td_node = line.search('td')
+    title_node = td_node.search('.ei_sdsf_title')
+    name_node = td_node.search('span.nowrap').first
+    title_node.text + ' - ' + name_node.text
   end
 
   def account_value(line)
