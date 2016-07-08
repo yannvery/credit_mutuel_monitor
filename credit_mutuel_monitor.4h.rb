@@ -74,7 +74,7 @@ class CreditMutuelMonitor
   end
 
   def positive_value?(value)
-    value =~ /^\+\s.*$/
+    value =~ /^\+.*$/
   end
 
   def negative_value?(value)
